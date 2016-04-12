@@ -10,3 +10,9 @@ What for?
 ---------
 
 This is the repository containing all the publications related with retinopathy and I2Cvb.
+
+How to add an entry?
+--------------------
+
+- Get the entry from Google Scholar,
+- Sort the entry by alphabetic order.
